@@ -9,3 +9,6 @@ def mul(x,y):
 
 def div(x,y):
     return x/y if y!=0 else "Error! Division by zero"
+
+def mod(x,y):
+    return x%y if y!=0 else "Error! Division by zero"
