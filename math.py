@@ -15,3 +15,6 @@ def mod(x,y):
 
 def power(x,y):
     return x**y
+
+def sqrt(x):
+    return x**0.5
