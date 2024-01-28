@@ -21,3 +21,6 @@ def sqrt(x):
 
 def Meow():
     return "Meow"
+
+def MeowFeature():
+    return "Meow Feature"
